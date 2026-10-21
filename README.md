@@ -4,8 +4,6 @@
 
 **Full-Stack Developer & Web Security Specialist** · `W1ZARD`
 
-Technical Lead at **Parad Infotech** · India
-
 I build full-stack web applications, then try to break them.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jugaljoshi.me-16246b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.jugaljoshi.me)
