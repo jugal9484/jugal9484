@@ -30,9 +30,9 @@ I build full-stack web applications, then try to break them.
 | 🛰️ **[Signal Ghost](https://github.com/jugal9484/signal-ghost)** | Android Wi-Fi & BLE signal reconnaissance with a live radar HUD | React Native · Expo |
 | 🔑 **[Ghost Key](https://github.com/jugal9484/ghost-key)** | Terminal password suite: strength check, breach check, generator | Python |
 | 🎬 **[Motion Vault](https://github.com/jugal9484/motion-vault)** | Cinematic text animations and interactive web effects | HTML · CSS · GSAP |
+| ⏳ **[Project Wizard](https://project-wizard-timer.vercel.app)** | A quiet Pomodoro timer set in dark forests and mountain nights | TypeScript |
 | 🏨 **[Rann Vilas](https://rann-vilas-hotel-demo.vercel.app)** | Heritage-luxury hotel website with an owner dashboard | Next.js · TypeScript |
 | 🍽️ **[Bhunga House](https://bhunga-house.vercel.app)** | Animated Kutchi restaurant website | React · Vite |
-| ⏳ **[Project Wizard](https://project-wizard-timer.vercel.app)** | A quiet Pomodoro timer set in dark forests and mountain nights | TypeScript |
 
 <sub>See every project on **[jugaljoshi.me](https://www.jugaljoshi.me/#work)**.</sub>
 
